@@ -1,11 +1,9 @@
 
-
-for i in range(3, 30, 3):
+for i in range(2, 22, 2):
     print(i)
 
-
 # for i in range(start, stop, step):
-    # code block
+   # code block
 # start: (optional) where to begin (default is 0)
 
 # stop: where to stop (not included)

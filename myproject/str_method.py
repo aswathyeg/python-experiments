@@ -11,3 +11,10 @@ class Student:
 
 b = Student("Alice", "A")
 print(b)
+
+for idx, val in enumerate(['a', 'b', 'c']):
+    print(idx, val)
+
+
+cube = [i**3 for i in range(1, 10)]
+print(cube)

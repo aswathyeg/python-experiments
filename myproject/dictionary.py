@@ -51,3 +51,8 @@ for i in range(3):
     # Calculate average
     total = sum(subject_marks.values())
     print(total/len(subject_marks))
+
+# 6
+words = ["a", "b", "c"]
+lengths = {word: len(word) for word in words}
+print(lengths)
